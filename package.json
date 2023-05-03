@@ -1,6 +1,5 @@
 {
   "name": "take-your-bike",
-  "homepage": "https://github.com/Rick305/wheelerz.git",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
